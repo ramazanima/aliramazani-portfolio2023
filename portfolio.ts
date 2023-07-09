@@ -18,7 +18,7 @@ export const greetings: GreetingsType = {
   description:
     "I'm an aspiring full-stack developer currently studying Computer Science at Berea College. I enjoy building dynamic, creative projects. My ambition encompasses forging great user experiences with focus on user-centered design",
   resumeLink:
-    'https://docs.google.com/document/d/1_4RIfbyt4FFHW_bNplnoINQr01neTu7XDeeUlT_2O_k/edit?usp=sharing',
+    // 'https://docs.google.com/document/d/1_4RIfbyt4FFHW_bNplnoINQr01neTu7XDeeUlT_2O_k/edit?usp=sharing',
 };
 
 export const openSource = {
