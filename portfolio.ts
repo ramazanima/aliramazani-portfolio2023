@@ -205,13 +205,13 @@ export const experience: ExperienceType[] = [
     // 	"Lorem ipsum dolor sit amet, consectetur adipiscing elit",
     // ],
   },
-  {
-    role: 'Full Stack Developer',
-    company: 'Bleed-AI',
-    companyLogo: '/img/icons/common/bleedAI.jpg',
-    date: 'Sept 2021 - Oct 2021',
-    desc: 'Worked as django web developer to create a website in which I integrated computer vision AI model (built by the team of BleedAI) to process YouTube URLs and show Real Time processing on Website using Django Channels WebSockets , threading for running multiple instances of AI Model, jQuery for UI rendering and deployed it on Heroku server.',
-  },
+  // {
+  //   role: 'Full Stack Developer',
+  //   company: 'Bleed-AI',
+  //   companyLogo: '/img/icons/common/bleedAI.jpg',
+  //   date: 'Sept 2021 - Oct 2021',
+  //   desc: 'Worked as django web developer to create a website in which I integrated computer vision AI model (built by the team of BleedAI) to process YouTube URLs and show Real Time processing on Website using Django Channels WebSockets , threading for running multiple instances of AI Model, jQuery for UI rendering and deployed it on Heroku server.',
+  // },
   {
     role: 'Software Engineering Intern',
     company: 'Center of Business Administration',
@@ -257,14 +257,14 @@ export const projects: ProjectType[] = [
 
 export const feedbacks: FeedbackType[] = [
   {
-    name: 'John Smith',
+    name: 'Zaki Ayoubi',
     feedback:
-      'Lorem ipsum dolor sit amet consectetur, adipisicing elit. Nisi, vel illo. Eum magnam beatae ratione eos natus accusamus unde pariatur fugiat at facilis, modi molestiae? Labore odio sit eligendi. Tenetur.',
+      'Ali is a driven and passionate computer science student who possesses a deep interest in artificial intelligence and robotics. Ali is a dedicated learner who consistently demonstrates a thirst for knowledge and an eagerness to explore new technologies and programming concepts. His passion for the field is evident in his impressive academic record and his participation in various extracurricular activities related to computer science. With his determination and enthusiasm, I am confident that Ali will excel in any future endeavors and make valuable contributions to the field of computer science.',
   },
   {
-    name: 'John Smith',
+    name: 'Bishal Timalsina',
     feedback:
-      'Lorem ipsum dolor sit amet consectetur, adipisicing elit. Nisi, vel illo. Eum magnam beatae ratione eos natus accusamus unde pariatur fugiat at facilis, modi molestiae? Labore odio sit eligendi. Tenetur.',
+      'Ali and I have worked on several group projects. He consistently delivers clean, high-quality code, excels in problem-solving, and actively supports the team. His analytical thinking, attention to detail, and time management skills make him a valuable asset.',
   },
 ];
 
