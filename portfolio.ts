@@ -1,4 +1,5 @@
 import emoji from 'react-easy-emoji';
+import Feedbacks from './containers/Feedbacks';
 import {
   EducationType,
   ExperienceType,
@@ -254,6 +255,19 @@ export const projects: ProjectType[] = [
   },
 ];
 
+export const feedbacks: FeedbackType[] = [
+  {
+    name: 'John Smith',
+    feedback:
+      'Lorem ipsum dolor sit amet consectetur, adipisicing elit. Nisi, vel illo. Eum magnam beatae ratione eos natus accusamus unde pariatur fugiat at facilis, modi molestiae? Labore odio sit eligendi. Tenetur.',
+  },
+  {
+    name: 'John Smith',
+    feedback:
+      'Lorem ipsum dolor sit amet consectetur, adipisicing elit. Nisi, vel illo. Eum magnam beatae ratione eos natus accusamus unde pariatur fugiat at facilis, modi molestiae? Labore odio sit eligendi. Tenetur.',
+  },
+];
+
 // export const feedbacks: FeedbackType[] = [
 //   {
 //     name: 'John Smith',
@@ -277,14 +291,14 @@ export const seoData: SEODataType = {
     'A passionate Full Stack Web Developer and Blockchain Developer.',
   author: 'Ali Ramazani',
   image: 'https://avatars3.githubusercontent.com/u/59178380?v=4',
-  url: 'https://developer-portfolio-1hanzla100.vercel.app',
+  url: 'ramazanima.me',
   keywords: [
-    'Hanzla',
-    'Hanzla Tauqeer',
-    '@1hanzla100',
-    '1hanzla100',
+    'Ali',
+    'Ali Ramazani',
+    '@ramazanima.me',
+    'ramazanima.me',
     'Portfolio',
-    'Hanzla Portfolio ',
-    'Hanzla Tauqeer Portfolio',
+    'Ali Portfolio ',
+    'Ali Ramazani Portfolio',
   ],
 };
