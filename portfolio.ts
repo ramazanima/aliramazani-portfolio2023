@@ -191,7 +191,7 @@ export const experience: ExperienceType[] = [
     companyLogo:
       'https://logowik.com/content/uploads/images/purdue-university4128.logowik.com.webp',
     date: 'Apr 2022 – Jun 2022',
-    desc: 'I worked as frontend web developer to design web based admin dashboards for mulitple apps using Django, Bootstrap, jQuery, Chart.js and some other libraries.',
+    desc: 'I collaborated on the development of a Generative Adversarial Network for creating synthetic ultrasound images, adding explainability to the model, for safer experimentation and clinical use, utilizing Python and libraries such as TensorFlow and NumPy.',
   },
   {
     role: 'Teaching Assistant',
